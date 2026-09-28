@@ -1,11 +1,3 @@
-TheRecord
+TheRecord exists to preserve claims, evidence, and historical context exactly as they were publicly available at a given point in time.
 
-Recording claims. Reviewing evidence. Preserving context.
-
-TheRecord is an independent archive of public claims and the evidence available at the time they were made.
-
-Its purpose is not to tell readers what to believe. Its purpose is to document the available evidence, explain its strengths and limitations, and preserve a historical record that can be revisited as new information emerges.
-
-Evidence changes.
-Understanding changes.
-The record should change too.
+Every review is intended to serve as a transparent historical record rather than a final judgment. As new evidence becomes available, reviews may be expanded or revised while preserving the previous record of what was known.
